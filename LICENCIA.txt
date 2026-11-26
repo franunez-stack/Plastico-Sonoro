@@ -1,0 +1,68 @@
+LICENCIA DE USO — Organizador Plástico Sonoro
+© 2025 Franc Nuñez. Todos los derechos reservados.
+Contacto: plasticosonoro@gmail.com
+
+(English version below)
+
+1. USO GRATUITO
+Se concede permiso para descargar, instalar y usar Organizador Plástico Sonoro (el «Programa») de forma gratuita, para uso personal y no comercial.
+
+2. LO QUE NO ESTÁ PERMITIDO
+Sin permiso por escrito del autor no está permitido:
+  a) modificar, traducir, adaptar el Programa o crear obras derivadas de él;
+  b) descompilarlo, desensamblarlo o aplicarle ingeniería inversa, salvo en la medida en que la ley aplicable lo permita expresamente;
+  c) venderlo, alquilarlo, sublicenciarlo o incluirlo en otros productos o servicios;
+  d) eliminar o alterar los avisos de autoría y de licencia.
+
+3. COMPARTIRLO
+Se puede compartir el Programa original, sin modificar y de forma gratuita, siempre que vaya acompañado de esta licencia.
+
+4. TUS DATOS
+La colección, las carátulas, las notas y demás archivos que crees con el Programa son tuyos.
+
+5. COMPONENTES DE TERCEROS
+El Programa incluye componentes de terceros que se rigen por sus propias licencias (Ayuda → Acerca de → Licencias y créditos, y la carpeta «licencias_terceros»). Las bibliotecas con licencia LGPL (pygame, SDL, libsndfile) se usan como bibliotecas separadas y pueden sustituirse por otras versiones compatibles.
+
+6. SERVICIOS EXTERNOS
+Algunas funciones usan servicios de terceros (Discogs, iTunes, Deezer, MusicBrainz), sujetos a sus propias condiciones. El token personal de Discogs es responsabilidad de cada usuario. Este programa usa la API de Discogs, pero no está afiliado, patrocinado ni respaldado por Discogs. «Discogs» es una marca registrada de Zink Media, LLC.
+
+7. SIN GARANTÍA
+El Programa se ofrece «tal cual», sin garantía de ningún tipo. En la medida en que lo permita la ley, el autor no será responsable de pérdidas de datos ni de otros daños derivados de su uso. Se recomienda hacer copias de seguridad de la colección.
+
+8. OTRAS CONDICIONES
+El autor puede publicar nuevas versiones del Programa con otras condiciones. Esta licencia termina automáticamente si se incumplen sus términos.
+
+
+-------------------------------------------------------------------------------
+
+LICENCE — Organizador Plástico Sonoro
+© 2025 Franc Nuñez. All rights reserved.
+Contact: plasticosonoro@gmail.com
+
+1. FREE USE
+Permission is granted to download, install and use Organizador Plástico Sonoro (the "Program") free of charge, for personal, non-commercial use.
+
+2. WHAT IS NOT ALLOWED
+Without the author's written permission you may not:
+  a) modify, translate or adapt the Program, or create derivative works from it;
+  b) decompile, disassemble or reverse engineer it, except to the extent that applicable law expressly permits it;
+  c) sell, rent or sublicense it, or include it in other products or services;
+  d) remove or alter the authorship and licence notices.
+
+3. SHARING
+You may share the original, unmodified Program free of charge, provided it is accompanied by this licence.
+
+4. YOUR DATA
+The collection, covers, notes and other files you create with the Program belong to you.
+
+5. THIRD-PARTY COMPONENTS
+The Program includes third-party components governed by their own licences (Help → About → Licences and credits, and the "licencias_terceros" folder). The LGPL-licensed libraries (pygame, SDL, libsndfile) are used as separate libraries and can be replaced with other compatible versions.
+
+6. EXTERNAL SERVICES
+Some features use third-party services (Discogs, iTunes, Deezer, MusicBrainz), subject to their own terms. Each user is responsible for their personal Discogs token. This application uses Discogs' API but is not affiliated with, sponsored or endorsed by Discogs. 'Discogs' is a trademark of Zink Media, LLC.
+
+7. NO WARRANTY
+The Program is provided "as is", without warranty of any kind. To the extent permitted by law, the author shall not be liable for any data loss or other damage arising from its use. Backing up your collection is recommended.
+
+8. OTHER TERMS
+The author may release new versions of the Program under different terms. This licence terminates automatically if its terms are breached.
