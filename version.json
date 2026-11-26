@@ -1,0 +1,42 @@
+{
+  "version": "1.20.0",
+  "descarga": "https://github.com/franunez-stack/Plastico-Sonoro/releases/latest",
+  "novedades": {
+    "es": [
+      "✏️ Editar varios discos a la vez: selecciona varios y pulsa «Editar» (o botón derecho → «Editar N discos a la vez…»). Marca qué campos cambiar (artista, sello, formato, género, estado, precio…) y se aplican a todos de golpe",
+      "✏️ Ideal para unificar nombres escritos de forma distinta, como «Blanco Y Negro» y «Blanco y Negro Music». Antes de guardar enseña un resumen de los cambios y hace una copia de seguridad",
+      "🌐 Ayuda → Buscar actualizaciones y Página del programa: el programa avisa cuando hay una versión nueva en su página de GitHub (se puede desactivar)",
+      "📦 Instalador para Windows: instala el programa con su acceso en el menú Inicio (y en el escritorio si quieres) y su desinstalador; tu colección se queda en Documentos y no se borra al desinstalar",
+      "💼 Versión portable (ZIP): se usa sin instalar y guarda la colección en la carpeta «datos», junto al programa, para llevarlo todo en un USB",
+      "⚡ El programa ahora va en una carpeta (en vez de un único .exe): arranca más rápido y Windows lo marca menos como sospechoso",
+      "🧹 Quitado el chat entre equipos de la misma red: no tenía que ver con la colección y abría un puerto de red sin protección"
+    ],
+    "en": [
+      "✏️ Edit several records at once: select several and press «Edit» (or right-click → «Edit N records at once…»). Tick which fields to change (artist, label, format, genre, condition, price…) and they are applied to all of them at once",
+      "✏️ Ideal for unifying names written differently, such as «Blanco Y Negro» and «Blanco y Negro Music». Before saving it shows a summary of the changes and makes a backup",
+      "🌐 Help → Check for updates and Program website: the program lets you know when there is a new version on its GitHub page (can be turned off)",
+      "📦 Windows installer: installs the program with its Start menu shortcut (and a desktop one if you want) and its uninstaller; your collection stays in Documents and is not deleted when uninstalling",
+      "💼 Portable version (ZIP): runs without installing and saves the collection in the «datos» folder, next to the program, to carry everything on a USB stick",
+      "⚡ The program now comes in a folder (instead of a single .exe): it starts faster and Windows flags it as suspicious less often",
+      "🧹 Removed the chat between computers on the same network: it had nothing to do with the collection and opened an unprotected network port"
+    ],
+    "fr": [
+      "✏️ Modifier plusieurs disques à la fois : sélectionnez-en plusieurs et appuyez sur « Modifier » (ou clic droit → « Modifier N disques à la fois… »). Cochez les champs à changer (artiste, label, format, genre, état, prix…) et ils s'appliquent à tous d'un coup",
+      "✏️ Idéal pour unifier des noms écrits différemment, comme « Blanco Y Negro » et « Blanco y Negro Music ». Avant d'enregistrer, il affiche un résumé des modifications et fait une sauvegarde",
+      "🌐 Aide → Rechercher des mises à jour et Site du programme : le programme vous prévient quand une nouvelle version est disponible sur sa page GitHub (désactivable)",
+      "📦 Programme d'installation pour Windows : installe le programme avec son raccourci dans le menu Démarrer (et sur le bureau si vous le souhaitez) et son programme de désinstallation ; votre collection reste dans Documents et n'est pas supprimée lors de la désinstallation",
+      "💼 Version portable (ZIP) : s'utilise sans installation et enregistre la collection dans le dossier « datos », à côté du programme, pour tout emporter sur une clé USB",
+      "⚡ Le programme est maintenant livré dans un dossier (au lieu d'un seul .exe) : il démarre plus vite et Windows le signale moins souvent comme suspect",
+      "🧹 Suppression du chat entre ordinateurs du même réseau : il n'avait rien à voir avec la collection et ouvrait un port réseau sans protection"
+    ],
+    "it": [
+      "✏️ Modifica più dischi insieme: selezionane diversi e premi «Modifica» (o tasto destro → «Modifica N dischi insieme…»). Spunta i campi da cambiare (artista, etichetta, formato, genere, condizione, prezzo…) e si applicano a tutti in un colpo",
+      "✏️ Ideale per unificare nomi scritti in modo diverso, come «Blanco Y Negro» e «Blanco y Negro Music». Prima di salvare mostra un riepilogo delle modifiche e fa una copia di sicurezza",
+      "🌐 Aiuto → Cerca aggiornamenti e Pagina del programma: il programma avvisa quando c'è una nuova versione sulla sua pagina GitHub (si può disattivare)",
+      "📦 Programma di installazione per Windows: installa il programma con il collegamento nel menu Start (e sul desktop se vuoi) e il programma di disinstallazione; la tua collezione resta in Documenti e non viene eliminata con la disinstallazione",
+      "💼 Versione portatile (ZIP): si usa senza installare e salva la collezione nella cartella «datos», accanto al programma, per portare tutto su una chiavetta USB",
+      "⚡ Il programma ora è in una cartella (invece di un unico .exe): si avvia più velocemente e Windows lo segnala meno come sospetto",
+      "🧹 Rimossa la chat tra computer della stessa rete: non c'entrava con la collezione e apriva una porta di rete senza protezione"
+    ]
+  }
+}
