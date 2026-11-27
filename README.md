@@ -6,10 +6,11 @@ Gratuito para uso personal · Windows 10/11 · Español, English, Français, Ita
 
 ### [⬇️ Descargar la última versión / Download the latest version](https://github.com/franunez-stack/Plastico-Sonoro/releases/latest)
 
-<!-- Pon aquí 2 o 3 capturas: la ventana principal, las estadísticas y el tema oscuro
 ![Ventana principal](capturas/principal.png)
-![Estadísticas](capturas/estadisticas.png)
--->
+
+| Estadísticas | Tema claro |
+|---|---|
+| ![Estadísticas](capturas/estadisticas.png) | ![Tema claro](capturas/claro.png) |
 
 ## ✨ Qué hace
 
