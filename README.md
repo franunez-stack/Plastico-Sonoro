@@ -8,7 +8,7 @@ Gratuito para uso personal · Windows 10/11 · Español, English, Français, Ita
 
 ![Ventana principal](capturas/principal.png)
 
-| Buscador de caratulas | Tema oscuro |
+| Buscador de caratulas | Tema claro |
 |---|---|
 | ![Buscador de caratulas](capturas/Buscador_de_caratulas.png) | ![Tema claro](capturas/claro.png) |
 
