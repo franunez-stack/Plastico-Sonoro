@@ -10,7 +10,7 @@ Gratuito para uso personal · Windows 10/11 · Español, English, Français, Ita
 
 | Estadísticas | Tema claro |
 |---|---|
-| ![Buscador de caratulas](capturas/estadisticas.png) | ![Tema claro](capturas/claro.png) |
+| ![Buscador de caratulas](capturas/Buscador_de_caratulas.png) | ![Tema claro](capturas/claro.png) |
 
 ## ✨ Qué hace
 
